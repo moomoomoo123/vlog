@@ -1,0 +1,46 @@
+.travel_mainDiv {
+    border: 1px solid gray;
+}
+
+.travel_mainDiv img {
+    width: 100%;
+}
+
+.travel_mainDiv h5 , .travel_mainDiv p {
+    margin: 20px;
+}
+
+body {
+    background-color: white;
+    color:white;
+}
+
+.movie_head {
+    font-size: 20px ;
+}
+
+p {
+    color: white;
+}
+
+#img1 {
+    width: 50%;
+    height: 50%;
+}
+
+#img2 {
+    width: 90%;
+    height: 103%;
+}
+
+#travel {
+    color:darkseagreen;
+}
+
+#movies {
+    color:darkseagreen;
+}
+
+#books {
+    color:darkseagreen;
+}
